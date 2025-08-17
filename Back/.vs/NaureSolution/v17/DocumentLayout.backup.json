@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maria\\Desktop\\Back\\Prueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27ACFF82-9195-4147-88A0-3DE9D3357DBD}|WebApplication1\\NaureBack.csproj|c:\\users\\maria\\desktop\\back\\prueba\\webapplication1\\controllers\\localidadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ACFF82-9195-4147-88A0-3DE9D3357DBD}|WebApplication1\\NaureBack.csproj|solutionrelative:webapplication1\\controllers\\localidadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ACFF82-9195-4147-88A0-3DE9D3357DBD}|WebApplication1\\NaureBack.csproj|c:\\users\\maria\\desktop\\back\\prueba\\webapplication1\\controllers\\serviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ACFF82-9195-4147-88A0-3DE9D3357DBD}|WebApplication1\\NaureBack.csproj|solutionrelative:webapplication1\\controllers\\serviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ACFF82-9195-4147-88A0-3DE9D3357DBD}|WebApplication1\\NaureBack.csproj|c:\\users\\maria\\desktop\\back\\prueba\\webapplication1\\servicios\\localidadservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ACFF82-9195-4147-88A0-3DE9D3357DBD}|WebApplication1\\NaureBack.csproj|solutionrelative:webapplication1\\servicios\\localidadservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ACFF82-9195-4147-88A0-3DE9D3357DBD}|WebApplication1\\NaureBack.csproj|c:\\users\\maria\\desktop\\back\\prueba\\webapplication1\\servicios\\servicioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ACFF82-9195-4147-88A0-3DE9D3357DBD}|WebApplication1\\NaureBack.csproj|solutionrelative:webapplication1\\servicios\\servicioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ACFF82-9195-4147-88A0-3DE9D3357DBD}|WebApplication1\\NaureBack.csproj|c:\\users\\maria\\desktop\\back\\prueba\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ACFF82-9195-4147-88A0-3DE9D3357DBD}|WebApplication1\\NaureBack.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ACFF82-9195-4147-88A0-3DE9D3357DBD}|WebApplication1\\NaureBack.csproj|c:\\users\\maria\\desktop\\back\\prueba\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27ACFF82-9195-4147-88A0-3DE9D3357DBD}|WebApplication1\\NaureBack.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ACFF82-9195-4147-88A0-3DE9D3357DBD}|WebApplication1\\NaureBack.csproj|c:\\users\\maria\\desktop\\back\\prueba\\webapplication1\\conversores\\localidadconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ACFF82-9195-4147-88A0-3DE9D3357DBD}|WebApplication1\\NaureBack.csproj|solutionrelative:webapplication1\\conversores\\localidadconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8A402A-349F-4D9D-81E4-F96567163D7D}|NaureTest\\NaureTest.csproj|c:\\users\\maria\\desktop\\back\\prueba\\nauretest\\analisisserviciotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8A402A-349F-4D9D-81E4-F96567163D7D}|NaureTest\\NaureTest.csproj|solutionrelative:nauretest\\analisisserviciotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ACFF82-9195-4147-88A0-3DE9D3357DBD}|WebApplication1\\NaureBack.csproj|c:\\users\\maria\\desktop\\back\\prueba\\webapplication1\\servicios\\analisisservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ACFF82-9195-4147-88A0-3DE9D3357DBD}|WebApplication1\\NaureBack.csproj|solutionrelative:webapplication1\\servicios\\analisisservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8A402A-349F-4D9D-81E4-F96567163D7D}|NaureTest\\NaureTest.csproj|c:\\users\\maria\\desktop\\back\\prueba\\nauretest\\palabraclaveserviciotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8A402A-349F-4D9D-81E4-F96567163D7D}|NaureTest\\NaureTest.csproj|solutionrelative:nauretest\\palabraclaveserviciotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ACFF82-9195-4147-88A0-3DE9D3357DBD}|WebApplication1\\NaureBack.csproj|c:\\users\\maria\\desktop\\back\\prueba\\webapplication1\\servicios\\palabraclaveservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ACFF82-9195-4147-88A0-3DE9D3357DBD}|WebApplication1\\NaureBack.csproj|solutionrelative:webapplication1\\servicios\\palabraclaveservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicioServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Back\\Prueba\\WebApplication1\\Servicios\\ServicioServicio.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Servicios\\ServicioServicio.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Back\\Prueba\\WebApplication1\\Servicios\\ServicioServicio.cs",
+              "RelativeToolTip": "WebApplication1\\Servicios\\ServicioServicio.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwGIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T18:54:31.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Back\\Prueba\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Back\\Prueba\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAjwBkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T21:15:01.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LocalidadConversor.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Back\\Prueba\\WebApplication1\\Conversores\\LocalidadConversor.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Conversores\\LocalidadConversor.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Back\\Prueba\\WebApplication1\\Conversores\\LocalidadConversor.cs",
+              "RelativeToolTip": "WebApplication1\\Conversores\\LocalidadConversor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T22:09:32.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LocalidadController.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Back\\Prueba\\WebApplication1\\Controllers\\LocalidadController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\LocalidadController.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Back\\Prueba\\WebApplication1\\Controllers\\LocalidadController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\LocalidadController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T21:53:59.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocalidadServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Back\\Prueba\\WebApplication1\\Servicios\\LocalidadServicio.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Servicios\\LocalidadServicio.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Back\\Prueba\\WebApplication1\\Servicios\\LocalidadServicio.cs",
+              "RelativeToolTip": "WebApplication1\\Servicios\\LocalidadServicio.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAMwD8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T21:39:52.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServicioController.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Back\\Prueba\\WebApplication1\\Controllers\\ServicioController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ServicioController.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Back\\Prueba\\WebApplication1\\Controllers\\ServicioController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ServicioController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAjwIQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T19:02:37.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Back\\Prueba\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Back\\Prueba\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-31T18:20:04.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnalisisServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Back\\Prueba\\WebApplication1\\Servicios\\AnalisisServicio.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Servicios\\AnalisisServicio.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Back\\Prueba\\WebApplication1\\Servicios\\AnalisisServicio.cs",
+              "RelativeToolTip": "WebApplication1\\Servicios\\AnalisisServicio.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAADgv4IAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:24:39.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AnalisisServicioTest.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Back\\Prueba\\NaureTest\\AnalisisServicioTest.cs",
+              "RelativeDocumentMoniker": "NaureTest\\AnalisisServicioTest.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Back\\Prueba\\NaureTest\\AnalisisServicioTest.cs",
+              "RelativeToolTip": "NaureTest\\AnalisisServicioTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKMAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:24:10.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PalabraClaveServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Back\\Prueba\\WebApplication1\\Servicios\\PalabraClaveServicio.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Servicios\\PalabraClaveServicio.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Back\\Prueba\\WebApplication1\\Servicios\\PalabraClaveServicio.cs",
+              "RelativeToolTip": "WebApplication1\\Servicios\\PalabraClaveServicio.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:16:00.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PalabraClaveServicioTest.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Back\\Prueba\\NaureTest\\PalabraClaveServicioTest.cs",
+              "RelativeDocumentMoniker": "NaureTest\\PalabraClaveServicioTest.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Back\\Prueba\\NaureTest\\PalabraClaveServicioTest.cs",
+              "RelativeToolTip": "NaureTest\\PalabraClaveServicioTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:38:21.14Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

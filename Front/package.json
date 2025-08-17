@@ -1,0 +1,31 @@
+{
+  "name": "nauresolutions",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fullcalendar/core": "^6.1.17",
+    "@fullcalendar/daygrid": "^6.1.17",
+    "@fullcalendar/interaction": "^6.1.17",
+    "@fullcalendar/vue3": "^6.1.17",
+    "bootstrap": "^5.3.6",
+    "chart.js": "^4.4.9",
+    "ol": "^10.5.0",
+    "ol-contextmenu": "^5.5.0",
+    "ol-ext": "^4.0.32",
+    "vue": "^3.5.13",
+    "vue-chartjs": "^5.3.2",
+    "vue-router": "^4.5.1",
+    "vue3-openlayers": "^11.6.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.3",
+    "vite": "^6.2.4",
+    "vite-plugin-vue-devtools": "^7.7.2"
+  }
+}
