@@ -75,5 +75,29 @@ namespace NaureBack.Controllers
                 return StatusCode(StatusCodes.Status401Unauthorized, res);
             }
         }
+
+        [HttpGet("ListarContratacionesCliente")]
+        public async Task<ActionResult<IList<ContratacionDTO>>> ListarContratacionClienteAsync(int idUsuario)
+        {
+            IList<ContratacionDTO>? res = null;
+
+            if (Request.Headers.ContainsKey("Token") && _palabraClave.Existe(Request.Headers["Token"].ToString()))
+            {
+                ContratacionServicio contratacionServicio = new ContratacionServicio(_context);
+                IList<Contratacion> contratacion = await contratacionServicio.ListarContratacionesClienteAsync(idUsuario);
+                ContratacionConversor conversor;
+
+                if (contratacion != null)
+                {
+                    conversor = new ContratacionConversor(contratacion);
+                    res = conversor.ListaContratacionDTO;
+                }
+                return StatusCode(StatusCodes.Status200OK, res);
+            }
+            else
+            {
+                return StatusCode(StatusCodes.Status401Unauthorized, res);
+            }
+        }
     }
 }

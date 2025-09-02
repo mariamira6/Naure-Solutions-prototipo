@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NaureBack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+264ba5187ff1914dc028831d82d8ac00d3656bd0")]
 [assembly: System.Reflection.AssemblyProductAttribute("NaureBack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NaureBack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
